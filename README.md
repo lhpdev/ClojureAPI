@@ -1,32 +1,16 @@
 # rest-demo
 
-FIXME: description
+> Tutorial from: https://medium.com/swlh/building-a-rest-api-in-clojure-3a1e1ae096e
 
 ## Installation
 
-Download from http://example.com/FIXME.
+With Java JDK and Leiningen already installed just go to the project's root folder and run:
+
+> lein run
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar rest-demo-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+The project will be running on PORT 3000
 
 ## License
 
